@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "feedsources",
+  "info": {
+    "name": "feedsources",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "enabled": {
+      "type": "boolean"
+    }
+  }
+}
