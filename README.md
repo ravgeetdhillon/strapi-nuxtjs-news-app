@@ -57,7 +57,7 @@ $ npm install
 $ npm run dev
 ```
 
-> For detailed instructions, [read the blog](#todo).
+> For detailed instructions, [read the blog](https://strapi.io/blog/build-a-news-aggregator-app-using-strapi-and-nuxtjs).
 
 ## Tech Stack
 
@@ -71,4 +71,4 @@ $ npm run dev
 ## Extra
 
 - You are welcome to make [issues and feature requests](https://github.com/ravgeetdhillon/strapi-nuxtjs-news-app/issues).
-- In case you get stuck at somewhere, feel free to contact at [Mail](mailto:ravgeetdhillon@gmail.com).
+- In case you get stuck at somewhere, feel free to contact at my [Mail](mailto:ravgeetdhillon@gmail.com).
