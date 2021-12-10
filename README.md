@@ -2,9 +2,7 @@
 
 # News Aggregator App using Nuxt.js and Strapi
 
-This repository servers as a code container for the tutorial I wrote on [Strapi's Blog](https://strapi.io/blog/#todo).
-
-> Link will be updated once the article is published.
+This repository servers as a code container for the tutorial I wrote on [Strapi's Blog](https://strapi.io/blog/build-a-news-aggregator-app-using-strapi-and-nuxtjs).
 
 ## Features
 
